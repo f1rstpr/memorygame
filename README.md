@@ -57,7 +57,7 @@ Here's a walkthrough of implemented user stories:
     For learning how to use Math.random(): https://www.w3schools.com/jsref/jsref_random.asp 
     
     
-    Free usage of pictures online: https://unsplash.com/s/photos/natural
+    Colors in CSS: https://www.w3schools.com/cssref/css_colors.asp
     
     
     How to make a countdown timer: https://www.w3schools.com/howto/howto_js_countdown.asp
