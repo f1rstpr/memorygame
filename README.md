@@ -4,7 +4,7 @@
 
 Submitted by: **Andrew Lee**
 
-Time spent: **4** hours spent in total
+Time spent: **4.5** hours spent in total
 
 Link to project: https://proud-royal-truck.glitch.me/
 
