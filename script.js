@@ -2,7 +2,7 @@
 const cluePauseTime = 333; // how long to pause in between clues
 const nextClueWaitTime = 1000; // how long to wait before playing sequence
 const AMOUNT_OF_BUTTONS = 5;
-const GAME_LENGTH = 3;
+const GAME_LENGTH = 10;
 
 // Global variables
 var pattern = [];
